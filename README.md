@@ -8,3 +8,9 @@
 
 ## User Manual
 1. https://jmeter.apache.org/usermanual/index.html
+
+## References
+1. https://jmeter.apache.org/
+2. https://en.wikipedia.org/wiki/Apache_JMeter
+3. https://cwiki.apache.org/confluence/display/JMETER/Home
+
